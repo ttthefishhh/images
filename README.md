@@ -2,4 +2,4 @@
 學號：1131846
 
 照片
-![照片](HLvzcnYaEAAc48B)
+<img width="1223" height="2048" alt="HBXRVFVbcAIxILM" src="https://github.com/user-attachments/assets/97e9bfbb-97e0-47c1-b5fc-8b092ee7412c" />
